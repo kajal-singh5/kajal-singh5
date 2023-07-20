@@ -1,61 +1,68 @@
-# hi 👋 my name is kajal singh
 
-### Introduction
-Hello there! Welcome to my GitHub profile. I'm a passionate and driven individual with a diverse background in B.com (Hons), UX/UI design, and product management. I am currently expanding my skills and knowledge through a coding bootcamp, immersing myself in the world of programming and web development.  
+# Hi 👋, I'm Kajal Singh
+
+- 🔭 I’m currently working on [HomeStyles](https://github.com/kajal-singh5/homestyle)
+  
+- 🌱 I’m currently learning **JavaScript**
+
+- 👨‍💻 All of my projects are available at [kajal-singh5.github.io/portfolio/](kajal-singh5.github.io/portfolio/)
+
+- 💬 Ask me about **Pure CSS**
+
+- 📫 How to reach me **uxKajal@gmail.com**
+
+- 📄 Know about my experiences [view resume](https://drive.google.com/file/d/1cUnfhrw9cKXWp7pwfDmKvVe8lLGfWun2/view?usp=sharing)
+
+- ⚡ Fun fact **I like to make pretty things.**
 
 <br>
-<p align="left">
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-			<img 
-					 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" 
-					 width="36" height="36" alt="Java" />
-		</a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-				<img 
-						 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" 
-						 width="36" height="36" alt="JavaScript" />
-		</a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-				<img 
-						 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" 
-						 width="36" height="36" alt="HTML5" />
-		</a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-				<img 
-						 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" 
-						 width="36" height="36" alt="React" />
-		</a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-				<img 
-						 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" 
-						 width="36" height="36" alt="CSS3" />
-		</a>
-		<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-				<img 
-						 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" 
-						 width="36" height="36" alt="Figma" />
-		</a>
-		<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
-				<img 
-						 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" 
-						 width="36" height="36" alt="XD" />
-		</a>
+
+<h3 align="center">Technology and Tools:</h3>
+<p width="100%" align="center">
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+	</a> 
+	&nbsp;
+	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+	</a> 
+	&nbsp;
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+	</a> 
+	&nbsp;
+	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+	</a> 
+	&nbsp;
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+	</a> 
+	&nbsp;
+	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+	</a> 
+	&nbsp;
+	<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+		<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+	</a> 
 </p>
 
-### Education and Experience
-I hold a B.com (Hons) degree, which has provided me with a strong foundation in business and finance. Alongside my academic pursuits, I have gained valuable experience as an audit assistant, where I developed a keen eye for detail and a systematic approach to problem-solving. 
+<br>
 
-My journey into the tech industry began with my role as a UX/UI designer, where I explored the intersection of creativity and user-centered design. This experience allowed me to conceptualize and craft engaging digital experiences that prioritize usability and aesthetics. 
+<h3 align="center">Some stats:</h3>
+<p width="100%" align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajal-singh5&" alt="kajal-singh5" />
+</p>
 
-As a product manager intern, I had the opportunity to work closely with cross-functional teams, bridging the gap between design, development, and business objectives. This role helped me understand the importance of effective communication, collaboration, and strategic decision-making in delivering successful products. 
+<p width="100%" align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajal-singh5&show_icons=true&locale=en&layout=compact" alt="kajal-singh5" />
+</p>
 
+<br>
 
-### Coding Bootcamp and Front-End Expertise
-Currently, I am enrolled in a coding bootcamp, where I am immersing myself in various programming languages such as Java and JavaScript. Through hands-on projects, I am gaining practical experience in front-end web development, including HTML, CSS, and responsive design. I am excited to bring my design background and creativity to the development process, as I work on converting my designs into reality. 
-
-### Projects
-Feel free to explore my GitHub repositories, where you can find my projects and code contributions. I am excited to collaborate, learn from fellow developers, and contribute to the thriving developer community. Let's connect and make an impact together! Thank you for visiting my GitHub profile.
-
-### Contact
-*   ✉️  You can contact me at [uxKajal@gmail.com](mailto:uxKajal@gmail.com)
-*   🤝  I'm open to collaborating on Web design and development
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://dev.to/kajalsingh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kajalsingh5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kajalsingh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajalsingh5" height="30" width="40" /></a>
+</p>
